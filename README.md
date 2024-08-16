@@ -4,7 +4,7 @@
 
 - 🌍 I'm based in Delhi, India
 - ✉️ You can contact me at [m.monodeepdas@gmail.com](mailto:m.monodeepdas@gmail.com)
-- 🚀 I'm currently working on [ChangeSpark](http://www.changespark.in)
+- 🚀 I'm currently working on [ChangeSpark](https://changespark.in/)
 - 🧠 I'm learning GO
 
 ## Skills
