@@ -92,4 +92,9 @@
 </a>
 
 ![Visitors](https://komarev.com/ghpvc/?username=Monodeep-Das)
-[![](https://visitcount.itsvg.in/api?id=Monodeep-Das&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+```javascript
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=adriz1611&icon=3&color=0)](https://visitcount.itsvg.in)
+  
+</div>
