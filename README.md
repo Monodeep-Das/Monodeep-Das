@@ -3,9 +3,10 @@
 **Full Stack Developer**
 
 - 🌍 I'm based in Delhi, India
-- ✉️ You can contact me at [m.monodeepdas@gmail.com](mailto:m.monodeepdas@gmail.com)
-- 🚀 I'm currently working on [ChangeSpark](https://changespark.in/)
-- 🧠 I'm learning Go/Supabase
+- ✉️ Reach me at: [m.monodeepdas@gmail.com](mailto:m.monodeepdas@gmail.com)
+- 🚀 Currently contributing to [ChangeSpark](https://changespark.in/)
+- 🧠 Exploring Go and Supabase
+- 🌐 Check out my portfolio: [Monodeep Das](https://monodeepdas.in/)
 
 ## Skills
 
