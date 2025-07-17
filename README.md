@@ -33,14 +33,3 @@
     </picture>
   </a>
 </p>
-
-
-
-<br>
-<br>
-
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=Monodeep-Das11&icon=3&color=0)](https://visitcount.itsvg.in)
-  
-</div>
